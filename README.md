@@ -6,7 +6,7 @@ Materiały do kursu [Coders School](http://coders.school) (luty 2019)
 ### Materiały z zajęć
 - [Dokumentacja C++ (cppreference.com)](https://en.cppreference.com/)
 - [Ściąga ze złożoności obliczeniowej](zlozonosc_obliczeniowa.pdf)
-- [Prezentacja z zajęć o STL](STL_full.pdf)
+- [Prezentacja z zajęć o STL](STL.pdf)
 - [Zadania z STLa](zadania_STL.pdf)
 - [C++ Data Structures and Algorithms Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md)
 
@@ -23,7 +23,7 @@ Materiały do kursu [Coders School](http://coders.school) (luty 2019)
 
 ### Materiały
 - [Dokumentacja C++ (cppreference.com)](https://en.cppreference.com/)
-- [Prezentacja z zajęć o STL](STL_full.pdf)
+- [Prezentacja z zajęć o STL](STL.pdf)
 - [Zadania z STLa](zadania_STL.pdf)
 - [Ściąga z funktorów i lambd](Funktory_i_lambdy.pdf)
 - [Ściąga z iteratorów](iteratory.pdf)
@@ -39,7 +39,7 @@ Materiały do kursu [Coders School](http://coders.school) (luty 2019)
 
 ### Materiały
 - [Dokumentacja C++ (cppreference.com)](https://en.cppreference.com/)
-- [Prezentacja z zajęć o STL](STL_full.pdf)
+- [Prezentacja z zajęć o STL](STL.pdf)
 - [Zadania z STLa](zadania_STL.pdf)
     
 ### Praca domowa
