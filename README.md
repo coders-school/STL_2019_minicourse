@@ -18,6 +18,14 @@ Materiały do kursu [Coders School](http://coders.school) (luty 2019)
 - [ ] [Playlista na YT odnośnie STLa](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - obejrzyj ile możesz :)
 - [ ] Zapoznaj się ze [ściągą o polimorfiźmie](polimorfizm.pdf). Może się to przydać w projekcie grupowym.
 
+### Foto i nagranie
+- [Nagranie na YouTube](https://www.youtube.com/watch?v=imoJsQ60GdY)
+- <img src="links.jpg" width="250px"> <img src="complexity.jpg" width="250px">
+  <img src="binary_search.jpg" width="250px"> <img src="vector.jpg" width="250px">
+  <img src="deque.jpg" width="250px"> <img src="list.jpg" width="250px">
+  <img src="set.jpg" width="250px"> <img src="unordered_set.jpg" width="250px">
+  <img src="adaptors.jpg" width="250px">
+
 
 ## 09.02.2019 Kontenery, iteratory, funktory, lambdy
 
