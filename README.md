@@ -27,7 +27,7 @@ Materiały do kursu [Coders School](http://coders.school) (luty 2019)
   <img src="adaptors.jpg" width="250px">
 
 
-## 09.02.2019 Kontenery, iteratory, funktory, lambdy
+## 09.02.2019 Iteratory, funktory, lambdy, algorytmy
 
 ### Materiały
 - [Dokumentacja C++ (cppreference.com)](https://en.cppreference.com/)
