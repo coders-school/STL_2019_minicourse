@@ -36,12 +36,19 @@ Materiały do kursu [Coders School](http://coders.school) (luty 2019)
 - [Ściąga z funktorów i lambd](Funktory_i_lambdy.pdf)
 - [Ściąga z iteratorów](iteratory.pdf)
 - [Rozwiązania zadań z listy](https://github.com/LordLukin/stl)
+- [Wstępny projekt StudentsDatabase](https://github.com/coders-school/Kurs-CPP/tree/master/L03-cpp-fundamentals/StudentsDatabase)
 
 ### Praca domowa
 - [ ] [Playlista na YT odnośnie STLa](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - obejrzyj ile możesz :)
 - [ ] Przejrzyj [iteratory na cppreference.com](https://en.cppreference.com/w/cpp/iterator)
 - [ ] Przejrzyj [algorytmy na cppreference.com](https://en.cppreference.com/w/cpp/algorithm). Na pewno użyjesz kilku z nich w projekcie.
 - [ ] Przypomnij sobie wszystkie kontenery oraz złożoności operacji na nich -  [C++ Data Structures and Algorithms Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md). Spróbuj pomapować nazwy tam użyte na ich odpowiedniki z STLa.
+
+### Foto i nagranie
+- [Nagranie na YouTube](https://www.youtube.com/watch?v=ucbKI9MGqgI)
+- <img src="include.jpg" width="250px"> <img src="iter.jpg" width="250px">
+  <img src="lambda.jpg" width="250px"> <img src="abs.jpg" width="250px">
+
 
 ## 16.02.2019 Algorytmy, mini-projekt
 
