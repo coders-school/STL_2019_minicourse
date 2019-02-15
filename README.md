@@ -58,10 +58,10 @@ Materiały do kursu [Coders School](http://coders.school) (luty 2019)
 - [Zadania z STLa](zadania_STL.pdf)
     
 ### Praca domowa
-  - [ ] Dokończ mini projekt z szyfrowania (zadanie 12A), jeśli nie udało Ci się go ukończyć na zajęciach
-  - [ ] Opcjonalnie wykonaj drugi mini-projekt z generowaniem podzielników liczb (zadanie 12B)
-  - [ ] [Wypełnij ankietę oceniającą mini kurs](https://goo.gl/forms/sMAJFvXkaz1rmYhc2)
-  - [ ] **Test z STLa i złożoności obliczeniowej (termin do 02 marca 2019)**
+- [ ] Dokończ mini projekt z szyfrowania (zadanie 12A), jeśli nie udało Ci się go ukończyć na zajęciach
+- [ ] Opcjonalnie wykonaj drugi mini-projekt z generowaniem podzielników liczb (zadanie 12B)
+- [ ] [Wypełnij ankietę oceniającą mini kurs](https://goo.gl/forms/sMAJFvXkaz1rmYhc2)
+- [ ] **Test z STLa i złożoności obliczeniowej (termin do 02 marca 2019)**
   
   
 ## Projekt
@@ -92,7 +92,7 @@ Napisz program, który będzie akademicką "bazą danych".
   - _Modyfikacja zarobków po numerze PESEL (problematyczne)_
   - _Sortowanie po zarobkach (problematyczne)_
 
-#### Pierwszy termin na dostarczenie podstawowych wymagań to 9 lutego. Do 16 lutego musisz udostępnić zaimplementowane pozostałe wymagania. Jeśli nie uda się dostarczyć wszystkiego na czas, to musisz pokazać to co udało się zrobić. Dopuszczalne jest, że niektóre rzeczy nie będą działać. Do 23 lutego masz czas, aby program dokończyć i poprawić według udzielonych wskazówek. Wszystko już musi wtedy działać. Do 2 marca z kolei musisz jeszcze dostarczyć finalną wersję, jeśli trzeba będzie jeszcze zastosować jakieś poprawki.
+#### Pierwszy termin na dostarczenie podstawowych wymagań to 9 lutego. Do 17 lutego musisz udostępnić zaimplementowane pozostałe wymagania. Jeśli nie uda się dostarczyć wszystkiego na czas, to musisz pokazać to co udało się zrobić. Dopuszczalne jest, że niektóre rzeczy nie będą działać. Do 23 lutego masz czas, aby program dokończyć i poprawić według udzielonych wskazówek. Wszystko już musi wtedy działać. Do 2 marca z kolei musisz jeszcze dostarczyć finalną wersję, jeśli trzeba będzie jeszcze zastosować jakieś poprawki.
 
 Możesz (a nawet to byłoby wskazane) kontaktować i konsultować się z innymi uczestnikami mini kursu. Projekt ten możecie też zrobić w grupach (max 3 osoby). W tym celu musicie jednak używać GitHuba do współpracy.
 
@@ -101,3 +101,17 @@ Pamiętaj! Po to jest biblioteka STL, aby wziąć z niej jak najwięcej. Postara
 **UWAGA: Zwracaj uwagę na formatowanie kodu**. Powinno być jednolite, wszędzie powinny być odpowiednie wcięcia, a kod powinien być maksymalnie prosty i czytelny. W szczególności nie używaj tabów zamiast spacji, bo całe formatowanie się przez to rozjeżdża.
 
 Jeśli utkniesz albo chcesz sprawdzić zgodność z wymaganiami to zajrzyj do [Checklisty](checklist.md)
+
+
+## Zakończenie
+
+- wypełnij proszę [ankietę zadowolenia](https://goo.gl/forms/azMHH9X2ctHUgpIK2) odnośnie naszego kursu
+- do 17.02 musisz wysłać taki projekt, jaki udało Ci się do tego czasu zrobić. Szczegóły powyżej.
+- do 02.03 musisz wypełnić test końcowy (link wkrótce).
+- do 04.03 dostaniesz informację o tym, jak Ci poszło
+- certyfikaty dla osób, które pomyślnie napiszą test i dostarczą projekt końcowy będą do odbioru w dogodnym dla was terminie.
+Preferowane terminy odbioru:
+  - 05.03, 12.03 (wtorki) godz. 16:00-16:30 lub 20:15-20:30 na ul. Sokolniczej 5/24
+  - 30.03 (sobota) godz 9:30-10:00 lub 15:00-15:30 na ul. Hercena 3-5
+  - dowolny inny termin po umówieniu się na ul. Tęczowej 83U/23 lub w okolicach centrum
+  - w przypadku braku odbioru certyfikatu do 01.04 mogę go przesłać pocztą na wskazany adres
