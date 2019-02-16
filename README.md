@@ -60,9 +60,14 @@ Materiały do kursu [Coders School](http://coders.school) (luty 2019)
 ### Praca domowa
 - [ ] Dokończ mini projekt z szyfrowania (zadanie 12A), jeśli nie udało Ci się go ukończyć na zajęciach
 - [ ] Opcjonalnie wykonaj drugi mini-projekt z generowaniem podzielników liczb (zadanie 12B)
-- [ ] [Wypełnij ankietę oceniającą mini kurs](https://goo.gl/forms/sMAJFvXkaz1rmYhc2)
+- [ ] [Wypełnij ankietę oceniającą mini kurs](https://goo.gl/forms/azMHH9X2ctHUgpIK2)
 - [ ] **Test z STLa i złożoności obliczeniowej (termin do 02 marca 2019)**
   
+### Foto i nagranie
+- [Nagranie na YouTube](https://youtu.be/RMOoTEsTGOo)
+- <img src="reference.jpg" width="250px"> <img src="stable_sort.jpg" width="250px">
+  <img src="heap.jpg" width="250px"> <img src="set_operations.jpg" width="250px">
+  <img src="numeric.jpg" width="250px"> <img src="cipher.jpg" width="250px">
   
 ## Projekt
 
