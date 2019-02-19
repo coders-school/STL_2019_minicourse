@@ -112,7 +112,7 @@ Jeśli utkniesz albo chcesz sprawdzić zgodność z wymaganiami to zajrzyj do [C
 
 - wypełnij proszę [ankietę zadowolenia](https://goo.gl/forms/azMHH9X2ctHUgpIK2) odnośnie naszego kursu.
 - do 17.02 musisz wysłać taki projekt, jaki udało Ci się do tego czasu zrobić. Szczegóły powyżej.
-- do 02.03 musisz wypełnić test końcowy (link wkrótce). [Przykładowe pytania](test-example.md).
+- **do 02.03 musisz wypełnić [test końcowy](https://goo.gl/forms/yR0FLAso9tWWts7v2). [Przykładowe pytania](test-example.md).**
 - do 04.03 dostaniesz informację o tym, jak Ci poszło.
 - certyfikaty dla osób, które pomyślnie napiszą test i dostarczą projekt końcowy będą do odbioru w dogodnym dla was terminie.
 Preferowane terminy odbioru:
